@@ -1,0 +1,58 @@
+.btn{
+    display: flex;
+    gap: 5px;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+ul li{
+    list-style: none;
+    background-color: dodgerblue;
+    padding: 20px;
+    border-radius: 9px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+.taskTitle{
+    color: white;
+    text-align: center;
+}
+nav{
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+
+}
+button{
+    background-color: dodgerblue;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+button:hover{
+    background-color: deepskyblue;
+}
+.deleteBtn{
+    background-color: crimson;
+}
+.deleteBtn:hover{
+    background-color: red;
+}
+.edit-btn{
+    background-color: orange;
+}
+.edit-btn:hover{
+    background-color: darkorange;
+}
+.details-btn{
+    background-color: green;
+}
+.details-btn:hover{
+    background-color: darkgreen;
+}
