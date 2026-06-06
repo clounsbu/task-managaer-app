@@ -7,15 +7,6 @@
 ## Installation & setup
 1. Click the link to open up my GitHub page. 
 
-# object-oriented-python
-
-## Technologies used
-- This project was completed using Python. 
-- Throughout the project I used classes, methods, objects, dictionaries, and tuples. 
-
-## Installation & setup
-1. Click the link to open up my GitHub page. 
-
 https://github.com/clounsbu/task-managaer-app
 
 2. Once on the GitHub page click on the **green** button to the right that says **code**. This will bring a dopdown menu, you will click on **HTTPS** and copy the link below it. 
